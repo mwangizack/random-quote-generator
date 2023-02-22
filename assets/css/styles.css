@@ -71,7 +71,8 @@ body {
   justify-content: space-between;
   margin-top: 1.5rem;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  row-gap: 1rem;
+  column-gap: 20rem;
 }
 
 .features ul {
